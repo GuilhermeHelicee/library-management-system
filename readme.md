@@ -1,6 +1,7 @@
 # Library Management System
 
-A simple library management system developed with Python and SQLite.
+A simple library management system developed with Python and SQLite. 
+Useful to keep track of books avaliabe in a library.
 
 ## Features
 
@@ -47,3 +48,9 @@ Run the application from the project root:
 The application uses SQLite to store the books.
 
 The database file is created automatically when the application runs.
+
+
+## What I learned in this project?
+
+That coding can be very fun, even if you never programed anything in you life, you can by searching for diferent methods, aproaches and sources, what  is really important is to not give up in the first mistake, and trust me, you'll make a lot of them. 🤭
+
