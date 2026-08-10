@@ -21,13 +21,18 @@ A simple library management system developed with Python and SQLite.
 
 ## Project Structure
 
-My First Library
 Library-System/
+
 ├── src/
+
 │   ├── books.py
+
 │   ├── database.py
+
 │   └── main.py
+
 ├── .gitignore
+
 └── README.m
 
 ## How to Run
