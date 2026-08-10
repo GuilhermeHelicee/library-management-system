@@ -1,7 +1,7 @@
 # Library Management System
 
 A simple library management system developed with Python and SQLite. 
-Useful to keep track of books avaliabe in a library.
+Useful to keep track of available books in a library.
 
 ## Features
 
