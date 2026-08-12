@@ -26,28 +26,24 @@ The project focuses on practicing programming fundamentals, database operations,
 
 Library-System/
 
-├── src/
-
-│   ├── books.py
-
-│   ├── database.py
-
-│   └── main.py
-
-├── .gitignore
-
-└── README.md
+- ├── src/
+- │   ├── books.py
+- │   ├── database.py
+- │   └── main.py
+- ├── .gitignore
+- └── README.md
 
 # 🤨 How to Run
+ 
+### 🔩 Running the application
 
 Make sure Python is installed.
 
-## 🔩 Running the application
-
 Run the application from the project root:
-    py src/main.py
 
-## 🗂️ Database
+- py src/main.py
+
+### 🗂️ Database
 
 The application uses SQLite to store the books.
 
@@ -55,38 +51,25 @@ The database file is created automatically when the application runs.
 
 # 🎯 Project Goals
 
-This project was created to practice:
-
-Python programming fundamentals
-
-SQL and relational databases
-
-CRUD operations
-
-Functions and modules
-
-Error handling
-
-Git and GitHub
-
-Basic software project organization
+- This project was created to practice:
+- Python programming fundamentals
+- SQL and relational databases
+- CRUD operations
+- Functions and modules
+- Error handling
+- Git and GitHub
+- Basic software project organization
 
 # 📌 Future Improvements
 
 Possible future features include:
 
-👥 Member management
-
-🔄 Book loan management
-
-🔗 Relationships between database tables
-
-🔐 User authentication
-
-🧪 Automated tests
-
-🖥️ Graphical user interface
-
+- 👥 Member management
+- 🔄 Book loan management
+- 🔗 Relationships between database tables
+- 🔐 User authentication
+- 🧪 Automated tests
+- 🖥️ Graphical user interface
 
 # 🧑‍🎓 What I learned in this project?
 
