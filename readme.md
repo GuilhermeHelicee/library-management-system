@@ -38,13 +38,13 @@ Library-System/
 
 └── README.md
 
-## 🚀 How to Run
+# 🚀 How to Run
 
-# Requirements
+## Requirements
 
 Make sure Python is installed.
 
-# Running the application
+## Running the application
 
 Run the application from the project root:
     py src/main.py
@@ -60,11 +60,17 @@ The database file is created automatically when the application runs.
 This project was created to practice:
 
 Python programming fundamentals
+
 SQL and relational databases
+
 CRUD operations
+
 Functions and modules
+
 Error handling
+
 Git and GitHub
+
 Basic software project organization
 
 ## 📌 Future Improvements
@@ -72,10 +78,15 @@ Basic software project organization
 Possible future features include:
 
 👥 Member management
+
 🔄 Book loan management
+
 🔗 Relationships between database tables
+
 🔐 User authentication
+
 🧪 Automated tests
+
 🖥️ Graphical user interface
 
 
