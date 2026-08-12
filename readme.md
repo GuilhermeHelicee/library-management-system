@@ -1,26 +1,28 @@
-# Library Management System
+# 📚 Library Management System
 
 A simple library management system developed with Python and SQLite. 
 Useful to keep track of available books in a library.
 
-## Features
+The project focuses on practicing programming fundamentals, database operations, CRUD functionality, and basic software organization.
 
-- Add books
-- List books
-- Search books
-- Update books
-- Delete books
-- SQLite database
-- Basic error handling
+## ✨ Features
+
+- 📖 Add books
+- 📋 List books
+- 🔎 Search books
+- ✏️ Update books
+- 🗑️ Delete books
+- 💾 SQLite database
+- 🛡️ Basic error handling
 
 ## Technologies
 
-- Python
-- SQLite
-- Git
-- GitHub
+- 🐍 Python
+- 🗄️ SQLite
+- 🔧 Git
+- 🐙 GitHub
 
-## Project Structure
+## 📁 Project Structure
 
 Library-System/
 
@@ -36,9 +38,13 @@ Library-System/
 
 └── README.md
 
-## How to Run
+## 🚀 How to Run
+
+# Requirements
 
 Make sure Python is installed.
+
+# Running the application
 
 Run the application from the project root:
     py src/main.py
@@ -48,6 +54,29 @@ Run the application from the project root:
 The application uses SQLite to store the books.
 
 The database file is created automatically when the application runs.
+
+## 🎯 Project Goals
+
+This project was created to practice:
+
+Python programming fundamentals
+SQL and relational databases
+CRUD operations
+Functions and modules
+Error handling
+Git and GitHub
+Basic software project organization
+
+## 📌 Future Improvements
+
+Possible future features include:
+
+👥 Member management
+🔄 Book loan management
+🔗 Relationships between database tables
+🔐 User authentication
+🧪 Automated tests
+🖥️ Graphical user interface
 
 
 ## What I learned in this project?
