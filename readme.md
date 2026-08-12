@@ -38,18 +38,16 @@ Library-System/
 
 └── README.md
 
-# 🚀 How to Run
-
-## Requirements
+# 🤨 How to Run
 
 Make sure Python is installed.
 
-## Running the application
+## 🔩 Running the application
 
 Run the application from the project root:
     py src/main.py
 
-# 🗄️ Database
+## 🗂️ Database
 
 The application uses SQLite to store the books.
 
@@ -90,7 +88,6 @@ Possible future features include:
 🖥️ Graphical user interface
 
 
-# What I learned in this project?
+# 🧑‍🎓 What I learned in this project?
 
 That coding can be very fun, even if you never programed anything in you life, you can by searching for diferent methods, aproaches and sources, what  is really important is to not give up in the first mistake, and trust me, you'll make a lot of them. 🤭
-

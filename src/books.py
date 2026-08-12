@@ -83,8 +83,7 @@ def search_book():
 def update_book():
   while True:
     try:
-        book_id = int(input("Enter the book ID: "))
-        break
+        book_id = int(input("Enter the book ID:"))
     except ValueError:
         print("Please enter a valid ID.")
     title = input("Enter the new title: ")
