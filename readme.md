@@ -5,7 +5,7 @@ Useful to keep track of available books in a library.
 
 The project focuses on practicing programming fundamentals, database operations, CRUD functionality, and basic software organization.
 
-## ✨ Features
+# ✨ Features
 
 - 📖 Add books
 - 📋 List books
@@ -15,14 +15,14 @@ The project focuses on practicing programming fundamentals, database operations,
 - 💾 SQLite database
 - 🛡️ Basic error handling
 
-## Technologies
+# ⚙️ Technologies
 
 - 🐍 Python
 - 🗄️ SQLite
 - 🔧 Git
 - 🐙 GitHub
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 Library-System/
 
@@ -49,13 +49,13 @@ Make sure Python is installed.
 Run the application from the project root:
     py src/main.py
 
-## Database
+# 🗄️ Database
 
 The application uses SQLite to store the books.
 
 The database file is created automatically when the application runs.
 
-## 🎯 Project Goals
+# 🎯 Project Goals
 
 This project was created to practice:
 
@@ -73,7 +73,7 @@ Git and GitHub
 
 Basic software project organization
 
-## 📌 Future Improvements
+# 📌 Future Improvements
 
 Possible future features include:
 
@@ -90,7 +90,7 @@ Possible future features include:
 🖥️ Graphical user interface
 
 
-## What I learned in this project?
+# What I learned in this project?
 
 That coding can be very fun, even if you never programed anything in you life, you can by searching for diferent methods, aproaches and sources, what  is really important is to not give up in the first mistake, and trust me, you'll make a lot of them. 🤭
 
